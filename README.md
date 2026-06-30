@@ -8,8 +8,7 @@ A modern, dark-themed SaaS landing page demo built with **React**, **TypeScript*
 
 ## Live Demo
 
-> Deploy to Vercel and paste your URL here:
-> `https://your-demo.vercel.app`
+https://demo-saas-nexus.vercel.app
 
 ## Features
 
