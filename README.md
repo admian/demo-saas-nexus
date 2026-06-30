@@ -41,7 +41,7 @@ npm run preview
 
 ## Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/demo-saas-nexus)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/admian/demo-saas-nexus)
 
 ## Screenshots
 
